@@ -1,1 +1,1 @@
-A C project that works with pointers, memory allocation, and references
+A C project that works pointers, memory allocation, and references
